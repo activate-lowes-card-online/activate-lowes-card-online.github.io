@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://activate-lowes-card-online.github.io/sitemap.xml
